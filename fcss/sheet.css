@@ -1,0 +1,24 @@
+.myview {
+
+    background-image: url('../img/CITY.jpg');
+    background-position: center ;
+    background-size: cover;
+    height: 200px;
+    }
+
+    .myimage{
+     width:75px;
+     height: 150px;
+     margin: 0 auto;
+     display: block;
+     padding-bottom: 10px;
+    }
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: rgb(10, 10, 10);
+        color: white;
+        text-align: center;
+    }
